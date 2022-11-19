@@ -4,7 +4,7 @@ The purpose of this project is to implement three different search algorithms wh
 
 ## Step1:
 Ensure that the "Sample-input" is in the same directory folder as the MP2.ipynb  
-##Step 2: 
+## Step 2: 
 Use Anaconda to begin your Jupyter Notebook session in either the online version or the VS code version (your choice).
 ## Step3:
 After everything has been loaded, you must click run on the first section of code to load the text file.
